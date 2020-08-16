@@ -35,14 +35,11 @@
 ## Table of Contents
 
 * [Sobre o NFEF-FCUL](#sobre-o-nfef-fcul)
-  * [Website Construído Com](#website-construido-com)
-* [Começar](#comecar)
-  * [Pré-requisitos](#pre-requisitos)
-  * [Instalar](#installation)
+  * [Website Construído Com](#website-construído-com)
 * [Contribuir](#contribuir)
-* [Licença](#licença)
-* [Contactar](#contactar)
-* [Reconhecimentos](#reconhecimentos)
+  + [Código de Conduta](#código-de-conduta)
+  + [Licença](#licença)
+  + [Convenções nas mensagens de commit no Git](#convenções-nas-mensagens-de-commit-no-git)
 
 <!-- ABOUT NFEF-FCUL -->
 ## Sobre o NFEF-FCUL
@@ -56,32 +53,42 @@ O NFEF-FCUL tem, também, como objetivo complementar a experiência académica c
 
 <!-- CONTRIBUTING -->
 # Contribuir
+Existem muitas maneiras de contribuir ao desenvolvimento do website, encontra a que se enquadra melhor com as tuas capacidades e interesses e abre in issue/pull request no repositório.
 
+Exemplos de contribuições que nós adoramos:
 
+- **Código**
+- **Report de bugs**
+- **Revisão de código**
+- **Traduções**
+- **Melhorias a UI**
 
-<!-- LICENSE -->
+## Código de Conduta
+
+Por favor lê e segue o nosso [Código de Conduta](https://github.com/ErnestoFGonzalez/nfeffcul-www/blob/master/CODE_OF_CONDUCT.md).
+
 ## Licença
 
+Qualquer contribuição está sob licença [MIT](https://opensource.org/licenses/MIT).
 
+Por favor lê com atenção a nossa [licença](https://github.com/ErnestoFGonzalez/nfeffcul-www/blob/master/LICENSE) e pergunta-nos se tiveres alguma questão.
 
-<!-- CONTACT -->
-## Contactar
+## Convenções nas mensagens de commit no Git
 
+Ajuda-nos a manter o histórico do repositório consistente.
 
+Usamos [gitmoji](https://gitmoji.carloscuesta.me/) como a nossa convenção de mensagens no git.
 
-<!-- ACKNOWLEDGEMENTS -->
-## Reconhecimentos
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [repo-size-shield]: https://img.shields.io/github/repo-size/ErnestoFGonzalez/nfeffcul-www
 [repo-size-url]: https://img.shields.io/github/contributors/ErnestoFGonzalez/nfeffcul-www
 [languages-shield]: https://img.shields.io/github/languages/top/ErnestoFGonzalez/nfeffcul-www
 [languages-url]: https://img.shields.io/github/contributors/ErnestoFGonzalez/nfeffcul-www
 [contributors-shield]: https://img.shields.io/github/contributors/ErnestoFGonzalez/nfeffcul-www
 [contributors-url]: https://github.com/ErnestoFGonzalez/nfeffcul-www/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/ErnestoFGonzalez/nfeffcul-www?style=social
+[forks-shield]: https://img.shields.io/github/forks/ErnestoFGonzalez/nfeffcul-www?label=forks&style=plastic
 [forks-url]: https://github.com/ErnestoFGonzalez/nfeffcul-www/network/members
 [issues-shield]: https://img.shields.io/github/issues/ErnestoFGonzalez/nfeffcul-www
 [issues-url]: https://github.com/ErnestoFGonzalez/nfeffcul-www/issues
